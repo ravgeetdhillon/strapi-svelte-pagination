@@ -9,7 +9,9 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.7"
+  },
   "dependencies": {
     "@strapi/strapi": "4.1.0",
     "@strapi/plugin-users-permissions": "4.1.0",
